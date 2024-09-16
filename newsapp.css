@@ -1,0 +1,34 @@
+body {
+    font-family: Courier, monospace, sans-serif;
+    background-color: rgb(42, 32, 32);
+}
+
+h1 {
+    position: center;
+    text-align: center;
+    font-family: Courier, monospace, sans-serif;
+    font-weight: 550;
+    margin: 20px;
+    color: rgb(68, 154, 224);
+}
+
+h3 {
+    color: rgb(228, 169, 59);
+}
+
+h4 {
+    color: rgba(194, 194, 85, 0.797);
+}
+
+h5 {
+    color: tan;
+}
+
+h6 {
+    color: rgb(94, 151, 186);
+}
+
+.news {
+    margin: 20px;
+    padding: 20px;
+}
